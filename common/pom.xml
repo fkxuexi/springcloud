@@ -7,7 +7,7 @@
     <groupId>top.fkxuexi</groupId>
     <artifactId>common</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>common</name>
     <url>http://www.example.com</url>
@@ -18,10 +18,6 @@
         <version>2.0.4.RELEASE</version>
         <relativePath/>
     </parent>
-
-    <modules>
-        <module>../eureka</module>
-    </modules>
 
     <dependencies>
         <dependency>
